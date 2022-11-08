@@ -254,8 +254,3 @@ public static void main(String[] args) {
   System.out.println();
   }
 }
-//Averages run time of the sorting algorithms
-// IS : 40.19
-//HS: 3.83
-//MS: 2.54
-//QS: 1.9
